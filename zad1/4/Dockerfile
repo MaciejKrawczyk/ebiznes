@@ -30,7 +30,6 @@ COPY Test.java .
 COPY Test.kt .
 
 COPY build.gradle .
-COPY settings.gradle .
 
 RUN gradle --version
 RUN gradle build
