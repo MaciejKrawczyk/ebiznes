@@ -1,2 +1,14 @@
 # Lista wszystkich produktów
 GET     /produkty               controllers.ProduktController.listaProduktow()
+
+# Pobranie szczegółów wybranego produktu
+GET     /produkty/:id           controllers.ProduktController.produktSzczegoly(id: Long)
+
+# Dodanie nowego produktu
+POST    /produkty               controllers.ProduktController.dodajProdukt()
+
+# Edycja produktu
+PUT     /produkty/:id           controllers.ProduktController.edytujProdukt(id: Long)
+
+# Usunięcie produktu
+DELETE  /produkty/:id           controllers.ProduktController.usunProdukt(id: Long)
