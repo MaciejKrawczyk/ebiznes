@@ -1,0 +1,2 @@
+# Lista wszystkich produktów
+GET     /produkty               controllers.ProduktController.listaProduktow()
