@@ -1,1 +1,9 @@
 .idea
+zad2/target
+zad2/project/target
+zad2/project/project
+
+zad2/.cache/
+zad2/.coursier/
+
+lib_managed/
