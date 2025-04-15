@@ -1,0 +1,9 @@
+ktor:
+    discord:
+        webhookUrl:
+            "https://discord.com/api/webhooks/1361774436063248444/_NoYIRkCaRxJYW4evuKEcwadtSZdDIVseawGbFKHQVUJraE__dG5YzWBZe_8QesKJqzi"
+    application:
+        modules:
+            - com.example.ApplicationKt.module
+    deployment:
+        port: 8080
