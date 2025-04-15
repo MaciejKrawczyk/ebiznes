@@ -12,17 +12,3 @@ PUT     /produkty/:id           controllers.ProduktController.edytujProdukt(id: 
 
 # Usunięcie produktu
 DELETE  /produkty/:id           controllers.ProduktController.usunProdukt(id: Long)
-
-# Kategoria
-GET     /kategorie                   controllers.KategoriaController.listaKategorii
-GET     /kategorie/:id               controllers.KategoriaController.kategoriaSzczegoly(id: Long)
-POST    /kategorie                   controllers.KategoriaController.dodajKategorie
-PUT     /kategorie/:id               controllers.KategoriaController.edytujKategorie(id: Long)
-DELETE  /kategorie/:id               controllers.KategoriaController.usunKategorie(id: Long)
-
-# Koszyk
-GET     /koszyki                     controllers.KoszykController.listaKoszykow
-GET     /koszyki/:id                 controllers.KoszykController.koszykSzczegoly(id: Long)
-POST    /koszyki                     controllers.KoszykController.dodajKoszyk
-PUT     /koszyki/:id                 controllers.KoszykController.edytujKoszyk(id: Long)
-DELETE  /koszyki/:id                 controllers.KoszykController.usunKoszyk(id: Long)
