@@ -18,4 +18,4 @@ RUN wget https://github.com/JetBrains/kotlin/releases/download/v${KOTLIN_VERSION
 WORKDIR /app
 
 COPY Test.java .
-COPY Test.kt .
+COPY Test1.kt .
