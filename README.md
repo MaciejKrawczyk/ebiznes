@@ -43,10 +43,3 @@ Kod: (folder lub branch)
 
 
 Kod: (folder lub branch)
-
-
-
-
-Kod nalezy umieścić w w folderach lub na branchach, ale nalezy pod kazdym zadaniem wskazac link do brancha lub nazwę katalogu na repozytorium.
-
-Do kazdego zadania nalezy przygotowac demo za pomocą https://obsproject.com/, a film (skompresowany) nalezy umiescic w katalogu demos.
