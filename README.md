@@ -32,3 +32,7 @@ Kod: https://github.com/MaciejKrawczyk/ebiznes/tree/main/zad3
 **Zadanie 5** Frontend
 
 :white_check_mark: 3 wymaganie 1 [Link](https://github.com/MaciejKrawczyk/ebiznes/commit/69ea6421f4ec83a9b2ac005d60b7f67348797d03)
+
+**Zadanie 6** Testy
+
+:white_check_mark: 3 wymaganie 1 [Link](https://github.com/MaciejKrawczyk/ebiznes/commit/ea43d1904945c3ca4691420fe5790e0be7cc0016)
