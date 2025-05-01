@@ -24,3 +24,7 @@ Kod: https://github.com/MaciejKrawczyk/ebiznes/tree/main/zad2
 :white_check_mark: 3.0 wymaganie 1 [Link](https://github.com/MaciejKrawczyk/ebiznes/commit/3eb690551582e39d48079a1957baa1d8af7238fe)
 
 Kod: https://github.com/MaciejKrawczyk/ebiznes/tree/main/zad3
+
+**Zadanie 4** Go
+
+:white_check_mark: 3 i 3.5 wymaganie 1 i 2 [Link](https://github.com/MaciejKrawczyk/ebiznes/commit/f018966956a159dcf72d5d2381ef2dae0b2e2806)
